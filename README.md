@@ -39,5 +39,3 @@ This command asks Gemini to summarize the content of the linked video. You can a
 - `@docs summarize this document`
 - `@gmail draft a reply to this email`
 - `@calendar create a meeting for tomorrow at 3 PM`
-
----
