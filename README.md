@@ -1,7 +1,5 @@
 # **Alura Immersion - Gemini**
 
----
-
 ## **Lesson 2 - How to Talk to AI and Make It Work for You**
 
 **Zero-shot and Few-shot (Explanation):**
@@ -25,8 +23,6 @@
       - "Goodbye"
 
 You’re essentially “training” the AI with a small number of examples during the prompt itself.
-
----
 
 ## **Lesson 3 - AI in Your Daily Life: From Google Calendar to Drive with Gemini**
 
